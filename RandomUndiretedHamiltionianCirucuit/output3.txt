@@ -1,0 +1,10 @@
+bruceforce:
+5 2 0 3 6 4 11 7 8 9 12 13 10 1 15 17 21 14 16 18 19 20 23 22 25 26 27 29 24 28 5 
+random:
+2 0 22 7 15 23 11 7 16 18 6 8 3 1 19 26 22 28 1 27 12 18 24 0 15 22 27 29 26 8 28 
+the max fitness is 5
+the fitness percentage from 1000 pop_size is 3.2806451612903227%
+BBSrandom:
+26 28 4 26 6 15 5 24 6 4 5 13 15 11 25 8 19 14 1 5 13 30 23 22 22 29 30 3 24 24 7 
+the max fitness is 6
+the fitness percentage from 1000 pop_size is 3.2870967741935484%
